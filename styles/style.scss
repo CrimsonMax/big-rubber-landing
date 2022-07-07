@@ -34,13 +34,13 @@ html {
       width: size(1110);
       margin: 0 auto;
 
-      @media screen and (min-width: size(481)) and (max-width: size(768)) {
-        width: size(850);
-      }
+      // @media screen and (min-width: size(481)) and (max-width: size(768)) {
+      //   width: size(850);
+      // }
 
-      @media screen and (max-width: size(480)) {
-        width: size(450);
-      }
+      // @media screen and (max-width: size(480)) {
+      //   width: size(450);
+      // }
     }
 
     /*=====SUPPORT STYLES==================================================================*/

@@ -10,4 +10,4 @@ changeFacility()
 // autoFacilitiesImage()
 faqTable()
 
-console.log(getComputedStyle(document.querySelector('html')).getPropertyValue('font-size'))
+// console.log(getComputedStyle(document.querySelector('html')).getPropertyValue('font-size'))
