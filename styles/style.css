@@ -3,7 +3,13 @@
 @import url(icon-style.css);
 html {
   height: 100%;
-  font-size: 1.2vw;
+  font-size: 1vw;
+}
+
+@media screen and (max-width: 80rem) {
+  html {
+    font-size: 1.2vw;
+  }
 }
 
 @media screen and (min-width: 48.0625rem) and (max-width: 64rem) {
@@ -34,7 +40,7 @@ html body {
 }
 
 html body .content {
-  width: 69.375rem;
+  max-width: 69.375rem;
   margin: 0 auto;
 }
 
