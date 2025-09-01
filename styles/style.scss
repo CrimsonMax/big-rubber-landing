@@ -194,11 +194,6 @@ html {
           @media screen and (min-width: size(481)) and (max-width: size(768)) {
             gap: size(20);
           }
-
-          &____item {
-            &_____href {
-            }
-          }
         }
       }
 
@@ -256,9 +251,6 @@ html {
           flex-direction: column;
           gap: size(8);
           width: 100%;
-
-          &___guide {
-          }
 
           &___main {
             height: size(201);
@@ -533,9 +525,6 @@ html {
               gap: size(16);
             }
 
-            &____guide {
-            }
-
             &____header {
               height: size(102);
               width: size(570);
@@ -552,9 +541,6 @@ html {
 
             @media screen and (max-width: size(480)) {
               align-self: center;
-            }
-
-            &____href {
             }
           }
         }
@@ -826,9 +812,6 @@ html {
             }
           }
         }
-
-        &___href {
-        }
       }
 
       /* SECTION NEWS */
@@ -860,9 +843,6 @@ html {
           display: flex;
           justify-content: space-between;
           align-items: baseline;
-
-          &___title {
-          }
 
           &___href {
             @media screen and (max-width: size(480)) {
@@ -955,9 +935,6 @@ html {
 
               &_____author {
                 display: flex;
-
-                &______photo {
-                }
 
                 &______id {
                   margin-left: size(23);
@@ -1187,9 +1164,6 @@ html {
           font-weight: 500;
           line-height: size(30);
           opacity: 50%;
-
-          &____text {
-          }
         }
 
         &___content {
