@@ -3,7 +3,7 @@
 <img width="1920" height="950" alt="Снимок экрана (641)" src="https://github.com/user-attachments/assets/686edf3f-e9a4-4900-aad4-55d1927b43f1" />
 <img width="874" height="872" alt="Снимок экрана (639)" src="https://github.com/user-attachments/assets/6d633ccf-1b10-4635-86dc-556c84d92ec3" />
 
-# Большой резиновй лендинг
+# Большой резиновый лендинг
 
 Старый, но прикольный проект. Супер-адаптивный лэндинг с анимацией адаптивности и необычным взглядом на BEM.
 
